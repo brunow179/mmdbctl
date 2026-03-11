@@ -22,3 +22,4 @@ Notes and usage details for mmdbctl.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
