@@ -23,3 +23,4 @@ Notes and usage details for mmdbctl.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
